@@ -10,3 +10,4 @@ ADD target/lib ./lib
 ADD start.sh .
 
 ENTRYPOINT ["sh", "/home/apps/start.sh"]
+
