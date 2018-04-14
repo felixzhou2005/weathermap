@@ -21,4 +21,3 @@ fi
 cd `dirname "$0"`
 mkdir ../logs
 npm start
-
