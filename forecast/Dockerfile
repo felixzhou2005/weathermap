@@ -11,3 +11,4 @@ ADD start.sh .
 
 ENTRYPOINT ["sh", "/home/apps/start.sh"]
 
+
