@@ -16,3 +16,4 @@ COPY ./views ./views
 
 
 ENTRYPOINT ["sh", "/home/apps/start.sh"]
+
